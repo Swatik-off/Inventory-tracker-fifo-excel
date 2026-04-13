@@ -13,6 +13,8 @@ This project simulates a real-world inventory tracking system used in supply cha
 ________________________________________
 📊 Dashboard Preview
 The final dashboard displays:
+<img width="528" height="228" alt="image" src="https://github.com/user-attachments/assets/6b49d8f5-7d12-4027-abbb-97ab0d947029" />
+
 KPI	Description
 💰 Revenue	Total income from sales
 🏷️ COGS	Cost of Goods Sold via FIFO
@@ -23,6 +25,9 @@ KPI	Description
 A product slicer connects all pivot tables and charts, enabling synchronized filtering across the entire dashboard.
 ________________________________________
 🗂️ File Structure
+<img width="488" height="139" alt="image" src="https://github.com/user-attachments/assets/b83aab45-7554-48c2-a885-3a5c99524fd2" />
+<img width="395" height="242" alt="image" src="https://github.com/user-attachments/assets/f8e3a645-d87e-4b6a-8932-9adaadfeff1b" />
+
 inventory-tracker-fifo/
 │
 ├── Inventory_Tracker_Dashboard_with_FIFO_Calculations.xlsx   # Main Excel workbook
